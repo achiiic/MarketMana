@@ -51,7 +51,7 @@
       <div>
         <h2 class="about-title">About Us</h2>
         <div class="description">
-          <p>This is a simple description of our website. We are dedicated to rescuing surplus food and distributing it to those in need. Join us in our mission to reduce food waste and alleviate hunger in our community.</p>
+          <p>Hello World! This is a simple description of our website. We are dedicated to rescuing surplus food and distributing it to those in need. Join us in our mission to reduce food waste and alleviate hunger in our community.</p>
         </div>
   </main>
 </body>
